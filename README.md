@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Tony Hoang.
 
-<!--
-**DEV-MinhHoang/DEV-MinhHoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack | Web | Mobile (iOS & Flutter)
 
-Here are some ideas to get you started:
+[![Github](https://img.shields.io/github/followers/minhhoang-techsmarter?style=social)](https://github.com/minhhoang-techsmarter)
+[![Github](https://img.shields.io/github/last-commit/minhhoang-techsmarter/minhhoang-techsmarter)](https://github.com/minhhoang-techsmarter/minhhoang-techsmarter)
+[![Github](https://img.shields.io/github/stars/minhhoang-techsmarter/minhhoang-techsmarter?style=social)](https://github.com/minhhoang-techsmarter/minhhoang-techsmarter)
+[![Github](https://img.shields.io/github/watchers/minhhoang-techsmarter/minhhoang-techsmarter?style=social)](https://github.com/minhhoang-techsmarter/minhhoang-techsmarter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Crossplatform mobile, desktop and web with Flutter  
+- Native App iOS with Swift  
+- Build codebase clean architecture, MVVM, Reactive Programming  
+- Unit test, UI testing and integration test
+- Backend development with PHP frameworks (Laravel, etc.) and Node.js  
+- Embedded system & OS programming  
+
+## Connect
+
+<a href="https://www.linkedin.com/in/minhhoang-techsmarter/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/minhhoang-techsmarter">
+  <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
+</a>
+<a href="mailto:dev@nailcost.com">
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a>
