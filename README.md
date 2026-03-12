@@ -21,9 +21,9 @@ Full-Stack | Web | Mobile (iOS & Flutter)
 <a href="https://www.linkedin.com/in/minhhoang-techsmarter/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/minhhoang-techsmarter">
+<a href="https://github.com/DEV-MinhHoang">
   <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 </a>
-<a href="mailto:dev@nailcost.com">
+<a href="mailto:maihoang09vinalite@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
